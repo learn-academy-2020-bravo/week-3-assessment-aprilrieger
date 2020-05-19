@@ -4,9 +4,10 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. What is object destructuring?
 
-  Your answer:
+  
+  Your answer: I really do not know why we do this. I know how it goes when we declare the object as this.state we can then destructure.... Reasearching to understand better
 
-  Researched answer:
+  Researched answer: It's a JavaScript expression that allows us to extract data from arrays, objects, maps and sets into their own variable. It allows us to extract properties from an object or items from an array, multiple at a time. https://wesbos.com/destructuring-objects
 
 
 
@@ -20,9 +21,11 @@ Answer the following questions. First, without external resources. Challenge you
 
 3. What is the difference between a class and an object?
 
-  Your answer: Objects are variables that have key value pairs. A class i
+Your answer: Objects are variables that have key value pairs. A class is the framework that holds all the information.
 
-  Researched answer:
+  Researched answer: Objects in JavaScript may be defined as an unordered collection of related data, of primitive or reference types, in the form of “key: value” pairs. These keys can be variables or functions and are called properties and methods, respectively, in the context of an object. https://www.geeksforgeeks.org/objects-in-javascript/
+
+  A class is a type of function, but instead of using the keyword function to initiate it, we use the keyword class, and the properties are assigned inside a constructor() method. https://www.w3schools.com/js/js_classes.asp
 
 
 
@@ -36,9 +39,10 @@ Answer the following questions. First, without external resources. Challenge you
 
 5. What is React.Fragment and why would you want to use it?
 
-  Your answer:
 
-  Researched answer:
+  Your answer: A place to house the JSX -- html behaving code.
+
+  Researched answer: A common pattern in React is for a component to return multiple elements. Fragments let you group a list of children without adding extra nodes to the DOM. https://reactjs.org/docs/fragments.html
 
 
 
